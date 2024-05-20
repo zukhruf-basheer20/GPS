@@ -1,0 +1,24 @@
+PODS:
+  - FloatingPanel (2.3.0)
+  - GoogleMaps (4.2.0):
+    - GoogleMaps/Maps (= 4.2.0)
+  - GoogleMaps/Base (4.2.0)
+  - GoogleMaps/Maps (4.2.0):
+    - GoogleMaps/Base
+
+DEPENDENCIES:
+  - FloatingPanel
+  - GoogleMaps
+
+SPEC REPOS:
+  trunk:
+    - FloatingPanel
+    - GoogleMaps
+
+SPEC CHECKSUMS:
+  FloatingPanel: 373478513a197cf140abd219ca9a9c049967332b
+  GoogleMaps: eb03e327edfd70b06de1e6e321653f73712df7ad
+
+PODFILE CHECKSUM: 9207447b354c2be7033a32e04eed0919eacde7d4
+
+COCOAPODS: 1.10.1
